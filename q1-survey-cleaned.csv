@@ -1,0 +1,73 @@
+respondent_id,role,age_group,venue_type,visits_per_week,usual_order_method,group_size_typical,vendor_orders_per_peak_hour,vendor_staff_on_shift,vendor_uses_pos,pain_long_queue,pain_wait_uncertainty,pain_ordering_multi_stalls,pain_order_accuracy,pain_slow_at_peak,pain_sales_records,pain_payment_hassle,ever_left_due_to_queue,ever_got_wrong_order,avoid_peak_hours,willingness_to_use_app,most_wanted_feature,comment
+R001,Vendor,35-44,Food court,2,Queue at counter,,55.0,4.0,No,3,2.0,1,4.0,5.0,5,3.0,Yes,Yes,No,5.0,Sales dashboard,"Lunch peak I cannot take orders fast enough, customers see the queue and walk to another stall."
+R002,Vendor,25-34,Food court,3,Queue at counter,,60.0,3.0,No,4,2.0,1,5.0,5.0,4,4.0,Yes,Yes,Yes,5.0,Order and pay from phone,"Taking orders and making change at the same time, always make mistakes during rush."
+R003,Vendor,45-54,Restaurant,1,Order from waiter,,40.0,6.0,Yes,3,3.0,1,4.0,5.0,5,3.0,No,Yes,No,4.0,Sales dashboard,End of day I have no idea which dishes sold well. Everything in my head.
+R004,Vendor,35-44,Food court,2,Queue at counter,,70.0,5.0,No,4,2.0,1,5.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Order and pay from phone,Peak hour is madness. If people could order from their phone my queue would be half.
+R005,Vendor,55+,Food court,1,Queue at counter,,45.0,3.0,No,3,2.0,1,4.0,5.0,4,4.0,No,Yes,No,3.0,Sales dashboard,"I am not so good with numbers, hard to track daily takings and popular items."
+R006,Vendor,25-34,Restaurant,2,Order from waiter,,50.0,7.0,Yes,3,3.0,1,5.0,5.0,4,3.0,No,Yes,No,4.0,Order and pay from phone,"Wrong orders happen when the waiter is rushing, then we lose the food cost."
+R007,Vendor,35-44,Food court,3,Queue at counter,,65.0,4.0,No,4,2.0,2,4.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Digital menu with sold-out,When I sell out of a dish I have no way to tell people until they reach the front.
+R008,Vendor,45-54,Food court,1,Queue at counter,,48.0,3.0,No,3,2.0,1,4.0,5.0,4,,No,Yes,No,4.0,Sales dashboard,Reconciling cash at closing takes me 30 minutes every night.
+R009,Vendor,25-34,Restaurant,2,Self-order kiosk,,55.0,6.0,Yes,3,3.0,1,4.0,4.0,5,3.0,No,Yes,No,4.0,Sales dashboard,Kiosk helps a bit but I still cannot see sales trends across the week.
+R010,Vendor,35-44,Food court,2,Queue at counter,,72.0,5.0,No,4,2.0,1,5.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Order and pay from phone,During lunch we turn away customers because the line is too long. Lost sales every day.
+R011,Vendor,55+,Food court,1,Queue at counter,,42.0,2.0,No,3,3.0,1,4.0,5.0,4,4.0,No,Yes,No,3.0,Digital menu with sold-out,"Old customers ask what is finished, I keep repeating myself the whole day."
+R012,Vendor,25-34,Restaurant,3,Order from waiter,,60.0,8.0,Yes,3,3.0,1,5.0,5.0,4,3.0,No,Yes,No,4.0,Order and pay from phone,Getting the bill to the table and back slows down our table turnover.
+R013,Vendor,35-44,Food court,2,Queue at counter,,58.0,4.0,No,4,2.0,1,4.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Sales dashboard,"I want to know my best sellers so I can prepare more, but no system."
+R014,Vendor,45-54,Food court,1,Queue at counter,,50.0,3.0,No,3,2.0,1,5.0,5.0,4,4.0,No,Yes,No,4.0,Order and pay from phone,"Cash handling with wet hands while cooking, terrible."
+R015,Vendor,25-34,Restaurant,2,Self-order kiosk,,52.0,,Yes,3,3.0,1,4.0,4.0,5,3.0,No,Yes,No,4.0,Sales dashboard,We collect data on the kiosk but cannot make sense of it.
+R016,Vendor,35-44,Food court,3,Queue at counter,,68.0,5.0,No,4,2.0,2,5.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Order and pay from phone,If phone ordering existed I could serve double the customers at lunch.
+R017,Vendor,55+,Food court,1,Queue at counter,,44.0,2.0,No,3,2.0,1,4.0,5.0,4,4.0,No,Yes,No,3.0,Digital menu with sold-out,Sold out items cause a lot of arguments at the counter.
+R018,Vendor,45-54,Restaurant,2,Order from waiter,,46.0,6.0,Yes,3,3.0,1,5.0,5.0,4,3.0,No,Yes,No,4.0,Sales dashboard,"No proper record of what sells, I just guess my orders to the supplier."
+R019,Vendor,25-34,Food court,2,Queue at counter,,62.0,4.0,No,4,2.0,1,4.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Order and pay from phone,Queue is my biggest enemy at peak. People give up and leave.
+R020,Vendor,35-44,Food court,1,Queue at counter,,54.0,3.0,No,3,3.0,3,3.0,3.0,3,3.0,No,Yes,No,3.0,Sales dashboard,
+R021,Vendor,45-54,Restaurant,2,Self-order kiosk,,50.0,7.0,Yes,3,3.0,1,4.0,4.0,5,3.0,No,Yes,No,4.0,Order and pay from phone,Payment and split bill among a big group takes forever.
+R022,Vendor,25-34,Food court,3,Queue at counter,,66.0,4.0,No,4,2.0,1,4.0,5.0,5,4.0,Yes,Yes,Yes,5.0,Digital menu with sold-out,
+R023,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,No,Yes,5.0,Order and pay from phone,Lunch queues at the food court eat up half my break. By the time I get food I have 10 minutes to eat.
+R024,Diner,35-44,Food court,3,Queue at counter,,,,,5,4.0,5,2.0,4.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,When my group wants different stalls we each queue separately. So troublesome.
+R025,Diner,18-24,Food court,5,Queue at counter,1.0,,,,4,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,I never know how long the food will take. I just stand there and wait.
+R026,Diner,45-54,Restaurant,2,Order from waiter,4.0,,,,4,4.0,2,3.0,4.0,2,4.0,No,Yes,No,4.0,Fast payment / split bill,Splitting the bill with friends after dinner is always a mess.
+R027,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,Yes,Yes,5.0,Order-ahead pickup,Order ahead and just collect would be perfect for busy weekdays.
+R028,Diner,35-44,Restaurant,2,Order from waiter,3.0,,,,4,4.0,2,3.0,4.0,1,4.0,No,No,No,4.0,Order and pay from phone,"Hard to get the waiter's attention when it is crowded, then I wait even longer."
+R029,Diner,25-34,Food court,5,Queue at counter,1.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,A buzz when my food is ready so I can go find seats first.
+R030,Diner,55+,Food court,2,Queue at counter,2.0,,,,4,,4,3.0,4.0,2,4.0,Yes,No,No,3.0,Order and pay from phone,Standing in line is hard on my legs. Ordering from phone would help older folks.
+R031,Diner,25-34,Food court,4,Mobile/QR,2.0,,,,5,4.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,"One order for chicken rice and my friend laksa without two queues, please."
+R032,Diner,35-44,Restaurant,3,Order from waiter,4.0,,,,3,3.0,2,3.0,4.0,1,4.0,No,Yes,No,4.0,Fast payment / split bill,Waiting for the bill and splitting it takes 20 minutes at the end.
+R033,Diner,25-34,Food court,5,Queue at counter,1.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,I want to know the wait time before I commit to a stall.
+R034,Diner,18-24,Food court,4,Queue at counter,2.0,,,,4,4.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,"Food court very hot, need more fans."
+R035,Diner,45-54,Restaurant,2,Self-order kiosk,4.0,,,,3,3.0,2,3.0,3.0,2,4.0,No,No,No,4.0,Fast payment / split bill,Kiosk is ok but paying and splitting is still clumsy.
+R036,Diner,35-44,Food court,3,Queue at counter,3.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,Yes,Yes,4.0,Order and pay from phone,"Peak lunch the queue snakes around, I often give up and eat elsewhere."
+R037,Diner,25-34,Food court,5,Mobile/QR,2.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,"Notify me when ready, I hate hovering at the counter."
+R038,Diner,25-34,Food court,4,Queue at counter,2.0,,,,4,4.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,
+R039,Diner,35-44,Restaurant,2,Order from waiter,4.0,,,,3,3.0,2,3.0,4.0,1,4.0,No,Yes,No,4.0,Order and pay from phone,Ordering from my phone at the table would save a lot of waiting.
+R040,Diner,55+,Food court,2,Queue at counter,2.0,,,,4,4.0,3,3.0,4.0,2,4.0,Yes,No,No,3.0,Order and pay from phone,Too long to queue nowadays. Sometimes I skip lunch.
+R041,Diner,25-34,Food court,5,Queue at counter,1.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,Wait time estimate would let me decide which stall.
+R042,Diner,18-24,Food court,4,Mobile/QR,2.0,,,,4,4.0,5,2.0,3.0,1,3.0,Yes,No,Yes,,Multi-stall single order,
+R043,Diner,35-44,Restaurant,3,Order from waiter,4.0,,,,3,3.0,2,4.0,4.0,1,,No,Yes,No,4.0,Fast payment / split bill,"Big group dinners, splitting the bill is a nightmare."
+R044,Diner,25-34,Food court,4,Queue at counter,3.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,No,Yes,5.0,Order-ahead pickup,Pre-order before I leave the office and collect on arrival.
+R045,Diner,45-54,Food court,2,Queue at counter,2.0,,,,4,4.0,4,3.0,4.0,2,4.0,Yes,No,Yes,3.0,Order and pay from phone,"Queue plus finding a seat, very stressful during lunch hour."
+R046,Diner,25-34,Food court,5,Mobile/QR,2.0,,,,5,5.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,Let me order from three stalls in one go and pay once.
+R047,Diner,35-44,Restaurant,2,Self-order kiosk,4.0,,,,1,1.0,2,3.0,3.0,1,4.0,Yes,No,No,4.0,Fast payment / split bill,"Queue damn long during lunch, I always give up and go elsewhere."
+R048,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,Just tell me when it is ready so I can queue for another stall meanwhile.
+R049,Diner,18-24,Food court,5,Queue at counter,1.0,,,,4,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Order and pay from phone,"Cashless order and pay, skip the whole line."
+R050,Diner,55+,Restaurant,1,Order from waiter,3.0,,,,3,3.0,2,3.0,4.0,2,4.0,No,Yes,No,3.0,Order and pay from phone,"Hard to flag the waiter, then order comes wrong."
+R051,Diner,35-44,Food court,3,Queue at counter,3.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,Yes,Yes,4.0,Order-ahead pickup,
+R052,Diner,25-34,Food court,5,Mobile/QR,2.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,Real-time wait time is the one thing I want.
+R053,Diner,45-54,Restaurant,2,Order from waiter,4.0,,,,3,3.0,2,3.0,4.0,1,4.0,No,Yes,No,2.0,Fast payment / split bill,Splitting and paying should be doable from the phone.
+R054,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,Different cravings in the group means many queues. One cart please.
+R055,Diner,18-24,Food court,5,Queue at counter,1.0,,,,4,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Order and pay from phone,The chicken rice here is the best in Singapore.
+R056,Diner,,Food court,3,Queue at counter,3.0,,,,5,4.0,4,3.0,4.0,1,3.0,Yes,No,Yes,4.0,Order-ahead pickup,Order ahead so lunch is ready when I reach.
+R057,Diner,25-34,Restaurant,2,Self-order kiosk,4.0,,,,3,3.0,2,3.0,3.0,1,4.0,No,No,No,4.0,Fast payment / split bill,"The kiosk queue is also long during peak, defeats the purpose."
+R058,Diner,25-34,Food court,5,Mobile/QR,2.0,,,,5,5.0,5,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,"Order from multiple stalls, collect together, pay once."
+R059,Diner,55+,Food court,2,Queue at counter,2.0,,,,4,4.0,3,3.0,4.0,2,4.0,Yes,No,No,3.0,Ready notification,
+R060,Diner,35-44,Food court,3,Queue at counter,3.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,Yes,Yes,4.0,Order and pay from phone,"Peak hour queue is unbearable, I plan my lunch around avoiding it."
+R061,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,4,,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,"Notify me, I will go chope seat first."
+R062,Diner,18-24,Food court,5,Mobile/QR,1.0,,,,4,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Order and pay from phone,
+R063,Diner,45-54,Restaurant,2,Order from waiter,4.0,,,,3,3.0,2,4.0,4.0,1,4.0,No,Yes,No,4.0,Fast payment / split bill,Wrong dishes arrive and then more waiting to fix.
+R064,Diner,35-44,Food court,3,Queue at counter,3.0,,,,4,4.0,4,4.0,4.0,4,4.0,Yes,No,Yes,4.0,Multi-stall single order,
+R065,Diner,25-34,Food court,5,Mobile/QR,2.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,"Wait time and ready alert, that combo saves me daily."
+R066,Diner,25-34,Restaurant,3,Order from waiter,4.0,,,,3,3.0,2,3.0,4.0,1,4.0,No,No,No,4.0,Order and pay from phone,Let me order and pay at the table without waving for staff.
+R067,Diner,35-44,Food court,3,Queue at counter,3.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,Yes,Yes,4.0,Order-ahead pickup,"Pre-order at 11.45, collect at 12, back to work by 12.15."
+R068,Diner,55+,Food court,2,Queue at counter,2.0,,,,4,4.0,3,3.0,4.0,2,4.0,Yes,No,No,3.0,Order and pay from phone,Prices keep going up everywhere these days.
+R069,Diner,25-34,Food court,5,Queue at counter,1.0,,,,5,5.0,4,2.0,3.0,1,3.0,Yes,No,Yes,5.0,Ready notification,Standing and waiting for food is dead time. Buzz me.
+R070,Diner,18-24,Food court,4,Mobile/QR,2.0,,,,4,4.0,5,2.0,,1,3.0,Yes,No,Yes,5.0,Multi-stall single order,
+R071,Diner,35-44,Restaurant,2,Self-order kiosk,4.0,,,,3,3.0,2,3.0,3.0,1,4.0,No,No,No,4.0,Fast payment / split bill,"Paying should be as fast as ordering, right now it is not."
+R072,Diner,25-34,Food court,4,Queue at counter,2.0,,,,5,4.0,5,3.0,4.0,1,3.0,Yes,No,Yes,5.0,Order and pay from phone,Just want to skip the lunch queue with my phone.
