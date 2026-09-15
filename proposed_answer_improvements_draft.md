@@ -66,16 +66,16 @@ At the end of Q1(b), just add a line saying the full 12-chart gallery is in the 
 
 ## Q4 - Spec document fixes
 
-The Q4 PDF matches `q4-spec.md`, but we need to fix a few logical gaps and add a missing NFR.
+Here are the final suggested improvements to add to the markdown file to fully close the gaps identified in the Q4 audit:
 
-**Feature 1 (Ordering):** The `Key Data` section is missing `OrderItem`. Add it. Also, add a rule for edge cases: if an item goes out of stock while in the cart, remove it and warn the user before checkout. If they already paid, auto-refund.
+**Q4(a) - Explicit Data Relationships**
+Update the `Key Data` section to define explicit entity relationships and multiplicities rather than just listing entities. Specify that one Diner creates many Orders, one Order contains many OrderItems, each OrderItem references one MenuItem, and each Order has one associated Payment. 
 
-**Feature 2 (Fulfillment):** The status transitions don't account for cancellations or undoing a "Ready" status. Update the rule to allow `Pending → Cancelled` and let vendors toggle `Not Ready ↔ Ready` before collection.
+**Q4(b) - NFR Metric Justification**
+Justify the specific numerical targets in the Non-Functional Requirements using Q1 survey evidence. Link the <3 second payment response time directly to the high queue pain score (4.20). For the 90% first-attempt completion rate for users aged 55+, justify it by referencing the survey's finding that older demographics have high app willingness but require accessible design, noting the exact percentage is an engineering target derived from this behavioral need.
 
-**Feature 3 (Inventory):** Add a rule that when an item is toggled to unavailable, it greys out on the menu and blocks "Add to Cart". If it's already in a cart, flag it at checkout.
+**Q4(d) - Version Control and Deliverables**
+Implement iterative version control for the specification document. Create multiple commits of `q4-spec.md` in the Git repository. Include a change log in each subsequent commit explaining what was modified and the rationale. Prepare the ordered Git commit URLs for the Canvas submission.
 
-**Feature 4 (Dashboard):** Specify that it only aggregates successful payments, shows a "No sales recorded yet" state, and displays a last-updated timestamp.
-
-**NFRs:** Fix the grammar in the existing NFRs to make them flow better. Also, add a **Security & Privacy** NFR since we handle payments. State that we never store raw card data, only gateway tokens, and enforce strict data isolation between vendors and diners.
-
-**Scope (Q4c):** Explicitly state that "Multi-stall single order" and "Order-ahead pickup" are deferred to V2. Use the group-size stat (willingness drops to 3.8 for groups of 4) to justify deferring the split-bill feature.
+**Q4(a) - Traceability for Edge Cases**
+Ensure the newly added failure responses (removing out-of-stock items from carts, auto-refunding) and state transitions (`Pending -> Cancelled`, `Ready <-> Not Ready`) explicitly reference the corresponding Q2 acceptance criteria to close the traceability gap between the user stories and the technical specification.
